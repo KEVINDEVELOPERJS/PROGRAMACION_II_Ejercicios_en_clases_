@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Documents">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../Conversor_tiempo/src" />
+      <root url="file://$PROJECT_DIR$/../Invirtiendo_cadenas/src" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$/src" />
+    </excluded>
+  </library>
+</component>
